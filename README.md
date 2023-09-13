@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonaldLTC4411, and I am an electrical engineering student in 4th year
+- 👋 Hi, I’m @Tianc, and I am an electrical engineering student
 - 👀 I’m interested in machine learning, c++, computer vision
 - 🌱 I’m currently learning java, computer science fundamental
 - 💞️ I want to become a machine learning engineer.
